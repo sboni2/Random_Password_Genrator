@@ -35,4 +35,4 @@ Create strong passwords on-the-fly with full control over complexity. It’s ide
 * Understanding of secure coding principles
 * Python skills like standard library usage and input handling
 
-![image](https://github.com/harshgithup/OIBSIP/assets/116560172/7c7848bb-d72f-43c8-bbfb-14b6ae4eefc3)
+"C:\Users\bonis\OneDrive\Pictures\Screenshots\Screenshot 2025-06-10 105528.png"
